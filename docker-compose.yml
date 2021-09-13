@@ -5,5 +5,3 @@ services:
     build: .
     ports:
       - 8880:8880
-    volumes:
-      - .:/explain
